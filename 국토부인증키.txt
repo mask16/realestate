@@ -1,0 +1,4 @@
+# 공공데이터포털(data.go.kr) 국토교통부 실거래가 인증키(디코딩 키)를 아래 줄에 붙여 넣으세요.
+e0ff5dc8f7e3ae7eeccf1b8f673939c8b0e8717fa541a1cb3b0aa9a9afe2e843
+e0ff5dc8f7e3ae7eeccf1b8f673939c8b0e8717fa541a1cb3b0aa9a9afe2e843
+# 키가 있으면 아파트·연립다세대·오피스텔 최근 실거래를 같은 전용면적으로 맞춰 함께 조회합니다.
